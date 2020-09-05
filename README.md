@@ -1,2 +1,1 @@
-# hq9-interpreter
-Simple hq9+ Interpreter
+# Simple hq9+ Interpreter
